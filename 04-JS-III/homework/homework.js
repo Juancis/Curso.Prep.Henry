@@ -233,7 +233,6 @@ function continueStatement(numero) {
     }
      array.push(suma+=2)  
   }return array
-
 }
 
 // No modificar nada debajo de esta línea
