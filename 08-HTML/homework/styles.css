@@ -1,0 +1,19 @@
+
+h1 {
+    color:coral;
+}
+img{
+    width: 400px;
+}
+
+#thirdDiv {
+    width: 500px;
+    height: 600px;
+    background-color: rgb(245, 186, 37);
+    padding: 50px;
+    border: 10px solid orangered
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
